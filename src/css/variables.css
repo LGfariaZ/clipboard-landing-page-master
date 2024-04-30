@@ -1,0 +1,7 @@
+:root{
+    --text-color-hard: hsl(210, 10%, 33%);
+    --text-color-soft: hsl(202, 11%, 66%);
+    --ios-color: hsl(171, 66%, 44%);
+    --mac-color: hsl(233, 100%, 69%);
+    --footer-color: hsl(220, 18%, 97%);
+}
